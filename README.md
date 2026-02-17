@@ -6,6 +6,7 @@ gcc/g++
 ### Установка
 ```
 git clone https://github.com/Asperrion/fetch
+cd fetch
 bash install.sh
 ```
 
